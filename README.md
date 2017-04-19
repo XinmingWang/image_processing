@@ -1,4 +1,4 @@
 # image_processing
-## exploring python imaging processing tools
-### openCV
-### scikit-image
+### Exploring python imaging processing tools
+#### OpenCV
+#### Scikit-image
